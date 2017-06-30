@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.16.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="8C581C643C1947528EF30FC37F8C0ED3"/>
+<title text="ever_day_joke" customized="True"/>
+<style key="system.bright-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="120" x="-1009" y="-16"/>
+<selection guid="GBPZPkA2M0CybD2oS2nRrw" type="node" id="7"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="7jHO19X8UEaI-c0_TIi78w" x="-882.55" y="689.91" palette="1" colorinfo="1" text="joke"/>
+<topic id="1" parent="0" guid="R0im4UnWC0efpdUBh_qY5Q" x="-686.75" y="322.26" palette="2" colorinfo="2" text="首页"/>
+<topic id="2" parent="1" guid="5_M2Vcvm9Ee9pXkm4Z5KIQ" x="-559.30" y="458.74" text="搞笑视频"/>
+<topic id="3" parent="2" guid="WOaS0iaGck27KmBKzt-fsg" x="-448.25" y="385.18" text="最新"/>
+<topic id="4" parent="2" guid="wOdRGB9ycka4cAE05o53Ew" x="-449.25" y="529.18" text="恶搞"/>
+<topic id="5" parent="2" guid="eCQs1u4a2Uauyg2DEipz2g" x="-443.94" y="427.26" text="热门"/>
+<topic id="6" parent="2" guid="_SvdqmHXQkyWuYWB95PWnw" x="-442.94" y="476.26" text="推荐"/>
+<topic id="7" parent="1" guid="GBPZPkA2M0CybD2oS2nRrw" x="-582.76" y="154.01" text="段子"/>
+<topic id="8" parent="7" guid="MAsy6xqwpU-YZ-61anZfVw" x="-452.13" y="95.95" text="最新"/>
+<topic id="9" parent="7" guid="0WFW_Qg1L0uQZAMzveRiow" x="-445.17" y="142.37" text="热门"/>
+<topic id="10" parent="7" guid="F5N1dglhnk-g90jpnEB2eA" x="-448.50" y="189.87" text="推荐"/>
+<topic id="11" parent="1" guid="tKkh3SbaG0GSntC6Ywx_CQ" x="-576.87" y="287.38" text="图片"/>
+<topic id="12" parent="11" guid="HZiJfTL6KUmkzZOha5o--w" x="-456.79" y="229.63" text="最新"/>
+<topic id="13" parent="11" guid="pNkIx285xUmbtVGcONCQvQ" x="-455.87" y="337.74" text="热门"/>
+<topic id="14" parent="11" guid="ht-wPaVj5E2n2RvdJ6zpqQ" x="-450.23" y="283.63" text="推荐"/>
+<topic id="15" parent="0" guid="ifawunw1NUKPyWuyp4JITw" x="-640.39" y="679.71" palette="3" colorinfo="3" text="圈子"/>
+<topic id="16" parent="15" guid="AMn9v2cVh0Sl0N-z5qdd9g" x="-532.92" y="610.06" text="发表笑话"/>
+<topic id="17" parent="15" guid="Axd9_ZPhhUmhW4HD-_vkpA" x="-536.87" y="684.60" text="评论"/>
+<topic id="18" parent="15" guid="T4pD3caFt0uAvbf8DMjbPw" x="-544.58" y="770.11" text="点赞"/>
+<topic id="19" parent="0" guid="vyhlOqLKFUWHHFou8h6i6g" x="-818.62" y="978.96" palette="4" colorinfo="4" text="我的"/>
+<topic id="20" parent="19" guid="ZzYPkoKSMUOPzdq76fsjyw" x="-543.77" y="880.60" text="个人资料"/>
+<topic id="21" parent="19" guid="r2kom_p4CkKjZCp67vs0dw" x="-537.68" y="942.69" text="版本信息"/>
+<topic id="22" parent="19" guid="Fc2X55pIeECfks9DGwSRyQ" x="-548.03" y="994.45" text="建议收集"/>
+<topic id="23" parent="19" guid="qLsQtH0EIUu0i2D-Dvwr7w" x="-559.14" y="1076.73" text="收藏"/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>
